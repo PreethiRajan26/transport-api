@@ -11,3 +11,4 @@ microservice:
     endpoints:
       endpoint:
         uri: http://Land-transport-controller/land/landtransport
+        
