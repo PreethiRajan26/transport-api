@@ -11,4 +11,9 @@ microservice:
     endpoints:
       endpoint:
         uri: http://Land-transport-controller/land/landtransport
+microservice:
+  airtransport:
+    endpoints:
+      endpoint:
+        uri: http://Air-transport-controller/air/airtransport
         
